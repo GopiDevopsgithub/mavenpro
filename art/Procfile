@@ -1,0 +1,1 @@
+web: java -jar art-1.0-SNAPSHOT.jar
